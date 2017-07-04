@@ -18,6 +18,7 @@ Query Params:
 - __`width`__: Viewport width. (default: 1280)
 - __`height`__: Viewport height. (default: 800)
 - __`full`__: Full page screenshot. (default: false)
+- __`delay`__: Delay (ms) screenshot after pageload. (default: 0)
 
 ## Deploy
 
